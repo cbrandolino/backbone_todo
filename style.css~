@@ -40,10 +40,6 @@ h1.item_title {
 	left: 400px;
 }
 
-.controls a {
-	cursor:pointer;
-}
-
 .priority1 {
 	background-color: #dfd;
 }
